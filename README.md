@@ -8,7 +8,7 @@ The minimum version required for tool at the time of writing is v2.0.7.
 ## What It Does
 This is a helper tool for listing items in the marketplace trade chat in Dark and Darker.
 
-Click the 'Set' button to create draggable circles, which you can place ontop of the items you wish to list in your inventory/stash. Right click to delete the circle that was last created.
+Click the 'Set' button to create draggable circles, which you can place ontop of the items you wish to list in your inventory/stash. Right click the 'Set' button to delete the circle that was last created.
 
 Enter the text you want to send with your listing.
 
