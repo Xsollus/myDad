@@ -19,6 +19,7 @@ Click the 'Stop' button to end the listing function, and click the 'Reset' butto
 This tool includes a check that will only function if you have Dark and Darker running.
 
 ## To Do
+- Marketplace check.
 - User set hotkeys for all buttons.
 - Right click circles to remove, instead of or in conjuction with the 'Set' button.
 - Notify on trade request from another player, and/or automatically accept the trade.
