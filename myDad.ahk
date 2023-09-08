@@ -1,4 +1,4 @@
-; RunAsAdmin() ; uncomment if you launch dark and darker with admin previldges for some reason
+; RunAsAdmin() ; uncomment if you launch dark and darker with admin privileges for some reason
 #Requires AutoHotkey v2.0.7
 #SingleInstance Force
 #Warn
@@ -284,7 +284,7 @@ class MyDad {
       this.myGui.Add("Text", "w275", "`nF5:   Reload App`n`nAlt+Esc:   Exit App")
       
       helpTab.UseTab(3)
-      this.myGui.Add("Text", "w275", "`nmyDad v1.0`nby Xsollus`n`nhttps://www.github.com/")
+      this.myGui.Add("Text", "w275", "`nmyDad v1.0`nby Xsollus`n`nhttps://github.com/Xsollus/myDad")
       helpTab.UseTab()
       this.myGui.Show()
       
